@@ -3,4 +3,5 @@ numpy
 pandas
 sklearn
 nltk
-nltk.stem
+re
+string
